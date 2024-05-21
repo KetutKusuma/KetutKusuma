@@ -10,7 +10,8 @@
 ---
 
 ### 🔥 My Stats :
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KetutKusuma" alt="Ketut Kusuma" /></a> </p>
+<!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KetutKusuma" alt="Ketut Kusuma" /></a> </p> 
+-->
   <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KetutKusuma&theme=tokyonight&count_private=true"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KetutKusuma&layout=compact&langs_count=8&theme=tokyonight"/>

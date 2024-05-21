@@ -5,6 +5,7 @@
 - 👀 an alumnus of Udayana University
 - 🌱 Someone who is passionate about learning
   Mobile Developer
+- 🔍 Enthusiastic about backed developers and machine learning
 - 📫 Contact me at ketutkusuma0910@gmail.com 
 
 ---

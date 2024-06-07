@@ -2,8 +2,8 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 📖 About Me :
-- 👀 an alumnus of Udayana University
-- 🌱 Someone who is passionate about learning
+- 👀 I'm a bachelor degree Informatic Engineering of Udayana University
+- 🌱 I'm passionate about learning
   Mobile Developer
 - 🔍 Enthusiastic about Backed Developers and Machine Learning
 - 📫 Contact me at ketutkusuma0910@gmail.com 
